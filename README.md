@@ -26,7 +26,7 @@
 
 ## 🏗️ Model Architecture
 
-![Architecture](Architecture.png)
+![Architecture](Dataset/Architecture.png)
 
 ### Stage 1 — Feature Extraction (CNN)
 
@@ -87,13 +87,13 @@ GlobalAveragePooling2D (256 values)
 
 ## 📈 Training Results
 
-![Training History](training_history.png)
+![Training History](Dataset/training_history.png)
 
 ---
 
 ## 🔀 Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](Dataset/confusion_matrix.png)
 
 ---
 
